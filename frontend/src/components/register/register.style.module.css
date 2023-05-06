@@ -1,0 +1,28 @@
+.Box {
+  width: 300px;
+  margin: auto;
+}
+.Register {
+  width: 290px;
+  height: 90px;
+  border-radius: 10px 15px;
+  margin-bottom: 10px;
+}
+.Login {
+  color: black;
+  font-family: "Lucida Sans";
+}
+.Image {
+  width: 80px;
+  height: 80px;
+  border-radius: 30px 40px 30px 40px;
+}
+.Header {
+  background-size: cover;
+  margin: 0;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/002/754/948/original/summer-beach-vacation-banner-tropical-island-seaside-vacation-background-sand-water-palm-boats-vector.jpg");
+}
+.Text {
+  font-family: fantasy;
+  font-size: xx-large;
+}
